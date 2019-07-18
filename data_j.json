@@ -1,5 +1,4 @@
-[
-  {
+{
     'id_product': 1,
     'product_name': 'Ноутбук',
     'price': 45600
@@ -9,4 +8,3 @@
     'product_name': 'Мышка',
     'price': 1000
   }
-]
