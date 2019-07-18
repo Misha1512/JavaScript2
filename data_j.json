@@ -9,9 +9,4 @@
     'product_name': 'Мышка',
     'price': 1000
   }
-  {
-    'id_product': 3,
-    'product_name': 'Клавиатура',
-    'price': 1500
-  }
 ]
